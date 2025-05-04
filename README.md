@@ -1,7 +1,0 @@
-- 👋 Oi, meu nome é Pedro Montenegro de Vasconcellos
-- 👀 Eu tenho interesse em Robótica e automação
-- 🌱 Eu sou do curso de controle e automação
-- 💞️ Eu estou ansioso para ajudar no time da WolfBotz
-- 📫 Meus contatos: Montenegro.pedro25@gmail.com (21)98728-4413
-- 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Eu participei durante 2 anos da equipe Riobotz
